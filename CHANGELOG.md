@@ -6,13 +6,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1] - 1900-12-31
+## [0.0.1] - 2024-04-05
 
 ### Added
+Classical and hybrid classical-quantum sparse matrix reordering algorithms:
+- Solvers based on Benders' cuts for minimum chordal completion using:
+  - quantum annealing
+  - simulating annealing
+  - integer linear programming
+- Solvers based on classical heuristics for reordering:
+  - reverse Cuthill-McKee heuristic
+  - lexicographic breadth first search
+  - approximate minimum degree column ordering
 
 ### Removed
 
 ### Changed
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
-[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
+[Unreleased]: https://github.com/QuantumApplicationLab/qreorder/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/QuantumApplicationLab/qreorder/releases/tag/v0.0.1
