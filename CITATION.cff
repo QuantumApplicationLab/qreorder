@@ -3,13 +3,10 @@
 cff-version: "1.2.0"
 title: "qreorder"
 authors:
-  -
-    family-names: Renaud
-    given-names: Nicolas
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-date-released: 20??-MM-DD
+  - name: "Quantum Application Lab"
+date-released: 2024-04-05
 doi: <insert your DOI here>
-version: "0.1.0"
+version: "0.0.1"
 repository-code: "https://github.com/QuantumApplicationLab/qreorder"
 keywords:
   - matrix
