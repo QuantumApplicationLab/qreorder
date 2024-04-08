@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+title: "qreorder"
+authors:
+  - name: "Quantum Application Lab"
+date-released: 2024-04-05
+doi: <insert your DOI here>
+version: "0.0.1"
+repository-code: "https://github.com/QuantumApplicationLab/qreorder"
+keywords:
+  - matrix
+  - graph
+message: "If you use this software, please cite it using these metadata."
+license: Apache-2.0
