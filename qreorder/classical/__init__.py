@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 Quantum Application Lab
+#
+# SPDX-License-Identifier: Apache-2.0
 """Subpackage with classical solvers."""
 
 from .classical_heuristics import COLAMD

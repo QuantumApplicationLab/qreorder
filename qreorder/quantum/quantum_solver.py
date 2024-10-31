@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 Quantum Application Lab
+#
+# SPDX-License-Identifier: Apache-2.0
 """This module contains a quantum ordering algorithm.
 
 The quantum solver approximates solutions to the equivalent minimum chordal completion
