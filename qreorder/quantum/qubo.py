@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 Quantum Application Lab
+#
+# SPDX-License-Identifier: Apache-2.0
 """QUBO Module.
 
 This module contains methods for creating the bender cut based QUBO formulation for the chordal completion problem.

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 Quantum Application Lab
+#
+# SPDX-License-Identifier: Apache-2.0
 # YAML 1.2
 ---
 cff-version: "1.2.0"
@@ -11,5 +14,6 @@ repository-code: "https://github.com/QuantumApplicationLab/qreorder"
 keywords:
   - matrix
   - graph
+  - quantum annealing
 message: "If you use this software, please cite it using these metadata."
 license: Apache-2.0

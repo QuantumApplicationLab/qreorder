@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 Quantum Application Lab
+#
+# SPDX-License-Identifier: Apache-2.0
 # qreorder
 
 **qreorder** is a specialized tool for reordering matrices using quantum annealing to maintain sparsity after LU decomposition, known as fill-in minimization. This approach is essential for quantum and classical computing applications where efficient matrix factorization is critical. The implemented approach solves multiple QUBO's for the equivalent chordal completion problem while iteratively increasing constraints using 'Bender's Cuts'. 
@@ -34,6 +37,7 @@ The reordering consists of 4 steps:
 2. Methods for creating the QUBO formulation for solving the chordal completion problem in qreorder/quantum/qubo.py.
 3. The BenderQUBO class in qreorder/quantum/bender.py for organizing an optimization routine that iteratively adds constraints to a QUBO formulation.
 4. The quantum solver in qreorder/quantum/quantum_solver.py is the class that combines all the above and uses methods to output an optimized reorder for an input matrix.
+
 
 ## Features
 

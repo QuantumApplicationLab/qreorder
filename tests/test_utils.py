@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 Quantum Application Lab
+#
+# SPDX-License-Identifier: 	Apache-2.0
 """This module contains tests for the qreorder.utils module."""
 
 import networkx as nx

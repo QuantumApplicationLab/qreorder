@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 2024 Quantum Application Lab
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Project Setup
 
 Here we provide some details about the project setup. Most of the choices are explained in the
