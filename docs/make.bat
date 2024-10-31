@@ -1,3 +1,7 @@
+REM SPDX-FileCopyrightText: 2024 2024 Quantum Application Lab
+REM
+REM SPDX-License-Identifier: Apache-2.0
+
 @ECHO OFF
 
 pushd %~dp0
