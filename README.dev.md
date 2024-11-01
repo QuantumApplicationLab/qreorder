@@ -1,8 +1,8 @@
-# SPDX-FileCopyrightText: 2024 Quantum Application Lab
-#
-# SPDX-License-Identifier: Apache-2.0
-# `qreorder` developer documentation
-
+<!--
+SPDX-FileCopyrightText: 2024 Quantum Application Lab
+SPDX-License-Identifier: Apache-2.0
+`qreorder` developer documentation
+-->
 If you're looking for user documentation, go [here](README.md).
 
 ## Development install
