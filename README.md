@@ -25,10 +25,9 @@ To install and set up **qreorder**, follow these steps:
    cd qreorder
    ```
 
-3. **Install dependencies**:
-   Ensure you have Python 3.8+ and `pip` installed. Install the required packages:
+3. **Install repo**:
    ```bash
-   pip install -r requirements.txt
+   pip install .
    ```
 
 ## Usage
@@ -49,7 +48,7 @@ The reordering consists of 4 steps:
 
 ## Example: Basic Matrix Reordering
 
-Here’s a simple example of reordering a matrix to maintain sparsity post LU decomposition. The output is a list that denotes the matrix reorder where output[i]=j implies that the i'th row and column of the input matrix are reordered to be the j'th column for the new matrix.
+Here’s a simple example of reordering a matrix to maintain sparsity post LU decomposition. The output is a list that denotes the matrix reorder where output[i]=j implies that the i'th row and column of the input matrix are reordered to be the j'th row and column for the new matrix.
 
 ```python
 #import solver
